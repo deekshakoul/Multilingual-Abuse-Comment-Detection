@@ -13,5 +13,5 @@ This work was done as part of Kaggle InClass competition hosted by Sharechat. We
 - There is model specifically trained on 17 indian languages i.e [MuRIL](https://tfhub.dev/google/MuRIL/1). The working code on training and further evaluating is available in MURIL-BERT notebook.
 
 ## Results - 
--  Was able to achieve a score of 0.91631 on test dataset provided by team.
+-  Was able to achieve a score of 0.94020 on test dataset provided by team.
 -  Computational intensive problem with huge amount of data, analysed the data and try to find the more important rows.
